@@ -89,7 +89,7 @@ All files are downloaded exclusively from official sources:
 
 ## 📸 Screenshots
 
-![Preview](screenshots/preview.png)
+![Preview](https://raw.githubusercontent.com/C1yHAX/Fika-Server-Setup-Wizard/main/screenshots/preview.png)
 
 ---
 
